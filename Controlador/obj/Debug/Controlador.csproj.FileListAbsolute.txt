@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\bin\Debug\Controlador.exe
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\bin\Debug\Controlador.pdb
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\bin\Debug\Modelo.exe
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\bin\Debug\Modelo.pdb
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\bin\Debug\Modelo.exe.config
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\obj\Debug\Controlador.exe
+C:\Users\asus\source\repos\ConcesionarioJS\Controlador\obj\Debug\Controlador.pdb
